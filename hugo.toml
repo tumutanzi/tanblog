@@ -1,0 +1,11 @@
+baseURL = "https://tumutanzi.com/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+title = "土木坛子"
+theme = "ananke"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "土木坛子，一个长期记录、思考和分享的个人博客。"
